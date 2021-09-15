@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/maxim/AndroidStudioProjects/MyCalc/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/maxim/AndroidStudioProjects/MyCalc/app/src/main/res/layout-land/activity_main.xml" value="0.152" />
         <entry key="..\:/Users/maxim/AndroidStudioProjects/MyCalc/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/maxim/AndroidStudioProjects/MyCalc/app/src/main/res/layout/calc_keyboard.xml" value="0.2078804347826087" />
